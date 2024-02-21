@@ -16,7 +16,9 @@
   <a href="#license">License</a>
 </p>
 
-<img src='./src/assets/hangmanScreenshot.png' alt="Hangman Loss the word was Round" width="500" align="center">
+<div align="center">
+<img src='./src/assets/hangmanScreenshot.png' alt="Hangman Loss the word was Round" width="500" >
+</div>
 
 ## Key Features
 
