@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src='./src/assets/nooseIcon.webp' alt="Noose Icon" width="200"></a>
+  <img src='./src/assets/nooseIcon.webp' alt="Noose Icon" width="200">
   <br>
   Markdownify
   <br>
@@ -16,7 +16,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+<img src='./src/assets/Hangman Screenshot.png' alt="Hangman Loss the word was Round" width="500">
 
 ## Key Features
 
