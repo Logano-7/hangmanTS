@@ -2,7 +2,7 @@
   <br>
   <img src='./src/assets/nooseIcon.webp' alt="Noose Icon" width="200">
   <br>
-  Markdownify
+  Hangman
   <br>
 </h1>
 
