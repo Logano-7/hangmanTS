@@ -113,4 +113,4 @@ This software uses the following open source packages:
 
 > GitHub [@Logano-7](https://github.com/Logano-7) &nbsp;&middot;&nbsp;
 > Codewars [@Logano-7](https://www.codewars.com/users/Logano-7) &nbsp;&middot;&nbsp;
-> LinkedIn[Logan Martin](https://www.linkedin.com/in/logan-martin-7-js/)
+> LinkedIn [@Logan Martin](https://www.linkedin.com/in/logan-martin-7-js/)
