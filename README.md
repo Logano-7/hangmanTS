@@ -11,9 +11,8 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#code-highlights">Code Highlights</a> •
+  <a href="#credits">Credits</a>
 </p>
 
 <div align="center">
@@ -106,8 +105,11 @@ This software uses the following open source packages:
 
 ## You may also like...
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [SmallTalk](https://github.com/Logano-7/smalltalk) - A Full-Stack MERN Chat app with full authentication. Uses Context and local storage to navigate the user. 
+
+- [Gericht](https://github.com/Logano-7/gerichtResturantDesign) - A Modern Figma Resturant Deisgn
+
+- [Logan's Logs](https://github.com/Logano-7/logsblogs) - A Full-Stack Blog with working authentication using Cookies. Displays Blog posts taken from a SQL Database.
 
 ---
 
