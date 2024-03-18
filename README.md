@@ -107,7 +107,7 @@ This software uses the following open source packages:
 
 - [SmallTalk](https://github.com/Logano-7/smalltalk) - A Full-Stack MERN Chat app with full authentication. Uses Context and local storage to navigate the user. 
 
-- [Gericht](https://github.com/Logano-7/gerichtResturantDesign) - A Modern Figma Resturant Deisgn
+- [Gericht](https://github.com/Logano-7/gerichtResturantDesign) - A Modern Figma  restaurant Deisgn
 
 - [Logan's Logs](https://github.com/Logano-7/logsblogs) - A Full-Stack Blog with working authentication using Cookies. Displays Blog posts taken from a SQL Database.
 
